@@ -139,7 +139,7 @@
 
 /* ESERCIZIO 13 */
 .ex-13-button:hover .ex-13-top-white {
-    animation: movetopcomp 5s linear;
+    animation: movetopcomp 2s linear;
 }
 
 @keyframes movetopcomp {
@@ -170,7 +170,7 @@
 }
 
 .ex-13-button:hover .ex-13-bottom-white {
-    animation: movebotcomp 5s linear;
+    animation: movebotcomp 2s linear;
 }
 
 @keyframes movebotcomp {
